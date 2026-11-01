@@ -1,0 +1,6 @@
+cat,y = 0 (shale),y = 1 (sand),total
+tight,803,0,803
+poor,0,9,9
+medium,0,150,150
+good,0,38,38
+total,803,197,1000

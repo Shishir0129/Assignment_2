@@ -1,0 +1,7 @@
+split,model,mean,std
+A_biased,Decision Tree,100.0,0.0
+A_biased,Naive Bayes,100.0,0.0
+B_random,Decision Tree,0.0,0.0
+B_random,Naive Bayes,0.0,0.0
+C_stratified,Decision Tree,0.0,0.0
+C_stratified,Naive Bayes,0.0,0.0
